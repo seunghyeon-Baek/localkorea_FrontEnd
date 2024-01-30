@@ -11,6 +11,7 @@ import '../../styles/board/boardCate.scss';
 function BoardCate() {
   return (
     <>
+    {/* test */}
       <Navbar style={{ paddingTop: '200px' }}>
         <Container className="justify-content-center text-center">
           <Nav>
